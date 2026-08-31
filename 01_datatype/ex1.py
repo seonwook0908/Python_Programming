@@ -25,3 +25,12 @@ x = y = z = 0
 # 예약어 사용 금지
 # 알파벳, 숫자, 특수문자(_)만 가능
 # 대소문자 구분
+
+
+이름 = "에디"
+print(이름)  # 비권장
+
+student_name = "루피"  # snake_case
+studentName = "포비"  # camelCase
+
+MAX_SCORE = 100  # 상수는 대문자로
